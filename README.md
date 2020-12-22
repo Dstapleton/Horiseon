@@ -1,4 +1,3 @@
 # Challenge 01
 ## Code refactor
-* Restructed
-[Horiseon](./Develop/index.html)
+* Link to chalange [Horiseon](./Develop/index.html)
